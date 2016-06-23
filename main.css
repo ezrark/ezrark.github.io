@@ -1,0 +1,26 @@
+#maindiv {
+  padding: 24px;
+  margin: 0px;
+}
+
+#topbar {
+  font-family: monospace;;
+  font-size: 14px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  }
+
+table#topbar td {padding-right: 50px;}
+table#topbar th {padding-right: 75px;}
+
+#kone {
+    font-family: 'Amiko', sans-serif;
+    font-size: 32px;
+    color: rgba(0,355,255,1);
+    padding-right: 75px;
+  }
+
+p {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
